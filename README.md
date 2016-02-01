@@ -24,7 +24,7 @@
 - [Willian Justen](willianjusten.com.br)
 - [Afonso Pacifer](afonsopacifer.com)
 - [Felipe Fialho](www.felipefialho.com)
-- [Rafael Fabeni](www.raphaelfabeni.com.br)
+- [Raphael Fabeni](www.raphaelfabeni.com.br)
 - [Vitor Britto](vitorbritto.com.br/blog)
 - [Zeno Rocha](zenorocha.com)
 - [Sérgio Lopes](sergiolopes.org)
