@@ -6,14 +6,14 @@
 
 - [CSS Tricks](https://css-tricks.com)
 - [Smashing Magazine](https://www.smashingmagazine.com)
-- [A List Apart](alistapart.com)
+- [A List Apart](http://alistapart.com)
 - [2ality - Javascript and More](http://www.2ality.com)
-- [CSS Wizardry](csswizardry.com)
-- [Codrops](tympanus.net/codrops)
-- [Envato Tuts+ Code](code.tutsplus.com)
+- [CSS Wizardry](http://csswizardry.com)
+- [Codrops](http://tympanus.net/codrops/)
+- [Envato Tuts+ Code](http://code.tutsplus.com)
 - [Aerotwist](https://aerotwist.com)
-- [DailyJS](dailyjs.com)
-- [Web Design Ledger](webdesignledger.com)
+- [DailyJS](http://dailyjs.com)
+- [Web Design Ledger](http://webdesignledger.com)
 
 ### Nacionais
 
@@ -21,22 +21,22 @@
 
 ### Comunidade
 
-- [Willian Justen](willianjusten.com.br)
-- [Afonso Pacifer](afonsopacifer.com)
-- [Felipe Fialho](www.felipefialho.com)
-- [Raphael Fabeni](www.raphaelfabeni.com.br)
-- [Vitor Britto](vitorbritto.com.br/blog)
-- [Zeno Rocha](zenorocha.com)
-- [Sérgio Lopes](sergiolopes.org)
+- [Willian Justen](http://willianjusten.com.br)
+- [Afonso Pacifer](http://afonsopacifer.com)
+- [Felipe Fialho](http://www.felipefialho.com)
+- [Raphael Fabeni](http://www.raphaelfabeni.com.br)
+- [Vitor Britto](http://vitorbritto.com.br/blog)
+- [Zeno Rocha](http://zenorocha.com)
+- [Sérgio Lopes](http://sergiolopes.org)
 
 ## Design - UI - UX
 
-- [Abduzeedo Design Inspiration](abduzeedo.com)
-- [UltraLinx](theultralinx.com)
+- [Abduzeedo Design Inspiration](http://abduzeedo.com)
+- [UltraLinx](http://theultralinx.com)
 - [UX Magazine](https://uxmag.com)
-- [Envato Tuts+ Design & Illustration](design.tutsplus.com)
+- [Envato Tuts+ Design & Illustration](http://design.tutsplus.com)
 
 ### Nacionais
 
-- [Choco La Design](chocoladesign.com)
-- [Blog de AI](arquiteturadeinformacao.com)
+- [Choco La Design](http://chocoladesign.com)
+- [Blog de AI](http://arquiteturadeinformacao.com)
