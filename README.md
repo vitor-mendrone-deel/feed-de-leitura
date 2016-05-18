@@ -54,8 +54,21 @@
 - [UltraLinx](http://theultralinx.com)
 - [UX Magazine](https://uxmag.com)
 - [Envato Tuts+ Design & Illustration](http://design.tutsplus.com)
+- [Information Design](http://www.informationdesign.org/)
+- [Inside Intercom](https://blog.intercom.io/)
+- [User Interface Engineering](https://www.uie.com/brainsparks/)
+- [Usability Geek](https://www.uie.com/brainsparks/)
+- [Usabilla Blog](http://blog.usabilla.com/)
+- [UX Movement](http://uxmovement.com/)
+- [UX Matters](http://www.uxmatters.com/)
+- [UXswitch](http://www.uxswitch.com/thinking/)
+- [Adaptive Path](http://adaptivepath.org/)
+- [Boxes and Arrows](http://boxesandarrows.com/)
+- [Luke Wroblewski](http://www.lukew.com/)
+- [UXDesign.cc](https://uxdesign.cc/)
 
 ### Nacionais
 
 - [Choco La Design](http://chocoladesign.com)
 - [Blog de AI](http://arquiteturadeinformacao.com)
+- [//UX.Blog](http://www.uxdesign.blog.br/)
